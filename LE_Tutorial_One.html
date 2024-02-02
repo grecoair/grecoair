@@ -8,11 +8,24 @@ that tells the browser what to expect when parsing the text below-->
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--Viewport is the visible part of your page, this will help it load on different devices and fit the screen size-->
 	<title>LE Coding Template</title> <!--Browser tab title-->
+<style>
+	body {
+	font-family: Tahoma, Verdana, sans-serif;
+	}
+	p {
+	background-color: lightgray;
+	text-align: center;
+	}
+</style>
 </head>
 <body>		<!--This is the main container of the code-->
+<!--<h1>-->
 Hello world!
-<div>		<!--This element takes up all available width and adds line before and after-->
-This is a div, it has a new line before and after.
-</div> 
+<!--</h1>-->
+	<div>		<!--This element takes up all available width and adds line before and after-->
+		This is a div, it has a new line before and after.
+	</div> 
+	<p>This is a p tag, or paragraph, it has a line of whitespace before and after.<br>It's alignment is controlled with CSS.</p>
+	The division and paragraph tags are different only in their name (semantic) and the whitespace. More advanced web tools will use them differently so their use may be important based on your intent.
 </body>
 </html>
