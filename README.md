@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning JavaScript, CSS, html.<br>
 - 💞️ I’m looking to collaborate on some Odin projects to learn how to be a good programmer.<br>
 - 📫 How to reach me: discord is best.<br>
-- But I also have a website you can check out: [andygreco](https://www.andygreco.com)
-[Duck Duck Go](https://duckduckgo.com)
+But I also have a website you can check out: [andygreco](https://www.andygreco.com)
 
 <!---
 grecoair/grecoair is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
