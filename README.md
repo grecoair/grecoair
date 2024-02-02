@@ -1,4 +1,4 @@
-- 👋 Hello world, I’m Andy.
+# 👋 Hello world, I’m Andy.
 - 👀 I’m interested in airplanes, space exploration, astronomy, food.
 - 🌱 I’m currently learning JavaScript, CSS, html.
 - 💞️ I’m looking to collaborate on some Odin projects to learn how to be a good programmer.
